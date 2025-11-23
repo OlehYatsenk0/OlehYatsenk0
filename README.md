@@ -24,7 +24,7 @@ Git | GitHub | Vercel | Render | CI/CD | Postman | VS Code
 ## 💻 Featured Projects  
 
 ### 🔹 06-notehub-nextjs  
-**Live Demo:** https://06-notehub-nextjs-seven-coral.vercel.app  
+**Live Demo:** https://06-notehub-nextjs-seven-coral.vercel.app
 **GitHub:** https://github.com/OlehYatsenk0/06-notehub-nextjs  
 A notes management app with filtering, pagination, global state (Zustand), React Query, and dynamic routing with Next.js App Router.
 
